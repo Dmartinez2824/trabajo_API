@@ -80,4 +80,4 @@ const cargar = async () => {
 }
 
 //llamamos a la funcion cargar, resolvemos con .then e imprimimos
-cargar().then(res => console.log(a)); 
+cargar().then(res => console.log(res)); 
